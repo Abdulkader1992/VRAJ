@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="textView_titel">Herzlich Willkommen</string>
-    <string name="buttonRed" />
-    <string name="butonRed">Rot</string>
     <string name="buttonYellow">Gelb</string>
     <string name="buttonBlue">Blau</string>
+    <string name="buttonRed">Red</string>
 </resources>

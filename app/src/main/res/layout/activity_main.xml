@@ -21,14 +21,15 @@
         android:id="@+id/buttonRed"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/textView_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp"
+        android:background="@android:color/background_dark"
         android:text="@string/buttonRed"
+        android:textAllCaps="false"
         android:textColor="#F3004E"
         android:textSize="30sp"
-        tools:text="@string/butonRed"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="150dp"
-        android:background="@android:color/background_dark"
-        android:textAllCaps="false"/>
+        tools:text="@string/buttonRed" />
 
     <Button
         android:id="@+id/buttonYellow"
